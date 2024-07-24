@@ -1,4 +1,4 @@
-*Hi there, i'm Simon 👋*
+**Hi there, i'm Simon 👋**
 
 I’m a Software Engineer specialized in Developer Tools. I work on [Microsoft Playwright](https://playwright.dev/), an end-to-end browser testing framework.
 
