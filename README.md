@@ -1,6 +1,6 @@
 **Hi there, i'm Simon 👋**
 
-I’m a Software Engineer specialized in Developer Tools. I work on [Microsoft Playwright](https://playwright.dev/), an end-to-end browser testing framework.
+I’m a Software Engineer specialized in Developer Tools. I worked on [Microsoft Playwright](https://playwright.dev/), an end-to-end browser testing framework.
 
 Previously, I worked at [Netlify](https://github.com/netlify) on all things developer-facing; built a job-queueing solution called [Quirrel](https://quirrel.dev/) (sold to Netlify); and received a Bachelors Degree in Computer Science from [Hasso Plattner Institute](https://hpi.de/) near Berlin.
 
